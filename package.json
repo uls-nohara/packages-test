@@ -1,0 +1,22 @@
+{
+  "name": "nohara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "aaa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uls-nohara/packages-test.git"
+  },
+  "keywords": [
+    "aaa"
+  ],
+  "author": "uls-nohara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uls-nohara/packages-test/issues"
+  },
+  "homepage": "https://github.com/uls-nohara/packages-test#readme"
+}
